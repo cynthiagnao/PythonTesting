@@ -1,0 +1,17 @@
+2024-07-30 11:02:07,386 :INFO :pytestsDemo.test_logging :Information statement
+2024-07-30 11:02:07,393 :WARNING :pytestsDemo.test_logging :Something is in warning mode
+2024-07-30 11:02:07,393 :ERROR :pytestsDemo.test_logging :A Major error has happend
+2024-07-30 11:02:07,394 :CRITICAL :pytestsDemo.test_logging :Critical issue
+2024-07-30 11:55:18,149 :INFO :pytestsDemo.BaseClass :Cynthia
+2024-07-30 11:55:18,150 :INFO :pytestsDemo.BaseClass :cgsoft.com
+2024-07-30 11:58:29,749 :INFO :test_editProfile :Cynthia
+2024-07-30 11:58:29,750 :INFO :test_editProfile :cgsoft.com
+2024-07-30 12:00:33,078 :INFO :test_editProfile :Cynthia
+2024-07-30 12:00:33,078 :INFO :test_editProfile :cgsoft.com
+2024-07-30 12:00:33,085 :INFO :pytestsDemo.test_logging :Information statement
+2024-07-30 12:00:33,085 :WARNING :pytestsDemo.test_logging :Something is in warning mode
+2024-07-30 12:00:33,086 :ERROR :pytestsDemo.test_logging :A Major error has happened
+2024-07-30 12:00:33,086 :CRITICAL :pytestsDemo.test_logging :Critical issue
+2024-07-30 12:00:33,096 - pytestsDemo.test_logging2 - INFO - This is an info message
+2024-07-30 12:00:33,096 - pytestsDemo.test_logging2 - DEBUG - This is a debug message
+2024-07-30 12:00:33,096 - pytestsDemo.test_logging2 - WARNING - This is a warning message
